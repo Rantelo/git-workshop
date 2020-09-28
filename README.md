@@ -17,31 +17,32 @@
 
 ## TW Team at Wizeline
 
-juanjoruiz2109
-j-romo
-moralesmario
-abauche
-isaicortesw
-unangelo1b
-arunabh-wizeline
-ivosam1206
-lbswl
-eocejo
-sAlvaradoM
-arielsazu
-guptameeta
-paolacorteswize
-juanpablosg
-alearriola-wizeline
-lucianuno
-jperdomo-wizeline
-Vira-wizeline
-sergionafate
-sblaizerwize
-JudithCano-Wizeline
-maribelcarrillo
-AlejandraPedroza
-zapata131
-edgar-raruz
-armando-slzr
-Omaradcm
+- zapata131 - green
+- Vira-wizeline
+- unangelo1b
+- sergionafate
+- sblaizerwize
+- sAlvaradoM
+- paolacorteswize
+- Omaradcm - gray
+- moralesmario
+- maribelcarrillo
+- lucianuno
+- lbswl
+- JudithCano-Wizeline
+- juanpablosg
+- juanjoruiz2109
+- josiasrico - purple
+- jperdomo-wizeline
+- j-romo
+- ivosam1206
+- isaicortesw
+- guptameeta
+- eocejo
+- edgar-raruz - blue
+- arunabh-wizeline
+- armando-slzr
+- arielsazu
+- AlejandraPedroza
+- alearriola-wizeline
+- abauche
