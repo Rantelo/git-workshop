@@ -1,5 +1,3 @@
-# TW Git Workshop
-
 ## Cheat Sheet
 
 * git clone
@@ -14,3 +12,4 @@
 * git push origin <branch_name>
 * git pull origin <branch_name>
 * git merge <branch_name>
+
