@@ -17,7 +17,7 @@
 
 ## TW Team at Wizeline
 
-juanjoruiz2109
+juanjoruiz2109 Blue
 j-romo
 moralesmario
 abauche
@@ -31,11 +31,11 @@ sAlvaradoM
 arielsazu
 guptameeta
 paolacorteswize
-juanpablosg
+juanpablosg Green
 alearriola-wizeline
 lucianuno
 jperdomo-wizeline
-Vira-wizeline
+Vira-wizeline Blue
 sergionafate
 sblaizerwize
 JudithCano-Wizeline
@@ -43,5 +43,6 @@ maribelcarrillo
 AlejandraPedroza
 zapata131
 edgar-raruz
-armando-slzr
+armando-slzr Yellow
 Omaradcm
+Evelyn Orange
