@@ -3,6 +3,7 @@
 ## Cheat Sheet
 
 * git clone
+* git remote
 * git status
 * git add <path/to/file>
 * git commit -m “Explain shortly what you did here”
