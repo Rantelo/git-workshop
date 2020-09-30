@@ -17,12 +17,9 @@
 
 ## TW Team at Wizeline
 
-- AlejandraPedroza
-- JudithCano-Wizeline
-- Omaradcm
-- Vira-wizeline
 - abauche
 - alearriola-wizeline
+- AlejandraPedroza
 - arielsazu
 - armando-slzr
 - arunabh-wizeline
@@ -36,13 +33,16 @@
 - jperdomo-wizeline
 - juanjoruiz2109
 - juanpablosg
+- JudithCano-Wizeline
 - lbswl
 - lucianuno
 - maribelcarrillo
 - moralesmario
+- Omaradcm
 - paolacorteswize
 - sAlvaradoM
 - sblaizerwize
 - sergionafate
 - unangelo1b
+- Vira-wizeline
 - zapata131
