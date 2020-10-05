@@ -26,7 +26,7 @@
 - arielsazu
 - armando-slzr
 - arunabh-wizeline
-- edgar-raruz
+- edgar-raruz - blue
 - eocejo
 - guptameeta
 - isaicortesw
